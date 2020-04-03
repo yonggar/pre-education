@@ -130,10 +130,12 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 # [7. 퀴즈 제출하기]  <br/>
 ###### 내 계정의 repo를 encore-playdata의 repo로 pull request하기 
 <br/> 
+
 #### pull request는 브랜치를 기준으로 합니다. 따라서 브랜칭 당 한번만 할 수 있습니다. 
 #### merge되거나 close를 해야 다시 pull request를 할 수 있습니다. 
 #### pull request 이후 브랜치 내용을 변경하면 자동으로 pull request 내용에 반영됩니다. 
 <br/> 
+
 #### 1. 상단 메뉴의 'Pull Request' 탭을 클릭하고, 'New Pull Request'->'Create Pull Request' 버튼을 클릭합니다.
 ![pull_request](images/pull_request.png)
 <br/> 
