@@ -127,7 +127,7 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 <br/><br/>
 
 
-# [7. 퀴즈 제출하기]  <br/>
+# [7. 퀴즈 정답 제출하기]  <br/>
 ###### 내 계정의 repo를 encore-playdata의 repo로 pull request하기 
 <br/> 
 
