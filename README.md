@@ -128,7 +128,11 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 
 
 # [7. 퀴즈 제출하기]  <br/>
-###### 내 계정의 repo를 encore-playdata의 repo로 pull request하기 -> 퀴즈를 모두 풀고 진행하세요
+###### 내 계정의 repo를 encore-playdata의 repo로 pull request하기 
+##### pull request는 브랜치를 대상으로 하기에 브랜칭 당 한번만 할 수 있습니다. 
+##### merge가 되거나, close를 하면 다시 pull request를 할 수 있습니다. 
+##### 그 전에는 다시 pull request를 요청할 수 없습니다. 
+##### pull request 이후 브랜치 내용을 변경하면 자동으로 pull request 내용에 반영됩니다. 
 
 #### 1. 상단 메뉴의 'Pull Request' 탭을 클릭하고, 'New Pull Request'->'Create Pull Request' 버튼을 클릭합니다.
 ![pull_request](images/pull_request.png)
@@ -136,10 +140,9 @@ https://www.notion.so/playdatacademy/for-f74c2555d11d4da6b895ff949f5d5762
 ![Create_Pull_request](images/Create_Pull_request.png)
 <br/> 
 
-#### 2. 제목에 이름_00번 퀴즈 정답이라고 쓰고 'Create Pull Request'를 클릭합니다.
-![naming](images/naming.png)
-<br/>
-![finished](images/finished.png)
+#### 2. 제목에 '이름_퀴즈명 제출'이라고 쓰고 'Create Pull Request'를 클릭합니다.
+###### (예시) 김펭수_정렬 알고리즘 퀴즈 제출 
+
 
 ## 여기까지 문제없이 잘 하셨다면, 퀴즈 제출 완료!
 ## 이제 동일한 방법으로 다음 퀴즈를 풀고 제출해주시면 됩니다.
